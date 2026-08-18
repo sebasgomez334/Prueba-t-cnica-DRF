@@ -9,7 +9,6 @@ Sigue estos pasos
 1. Clonar el repositorio y entrar
 
    git clone https://github.com/sebasgomez334/Prueba-t-cnica-DRF.git
-   cd <nombre-del-proyecto>
    
 3. Crear y activar el entorno virtual
   python -m venv venv
